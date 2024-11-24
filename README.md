@@ -2,6 +2,8 @@
 
 FLORA is a privacy-first ovulation tracking application designed to provide secure and accurate reproductive health insights. Leveraging cutting-edge technologies such as Federated Learning (FL), Blockchain, and advanced Privacy-Enhancing Technologies (PETs), FLORA ensures that sensitive personal data remains secure, empowering users with full control over their information.
 
+![Alt Text](FLORA_Rectangle_Transparent.png)
+
 ---
 
 ## Features
