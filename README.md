@@ -65,5 +65,3 @@ This project is funded by  the  H2020  project  entitled  “TRUSTCHAIN  - Foste
 For inquiries and collaborations, reach out to the project team:
 - ATHENA Research Center: [Pavlos Efraimidis](mailto:pefraimi@athenarc.gr)
 - OPSIS Research: [Athanasios Vrachinopoulos](mailto:info@opsys.ro)
-
-  

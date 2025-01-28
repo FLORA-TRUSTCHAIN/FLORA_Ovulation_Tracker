@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Flora1</string>
+    <string name="max_username_chars">Cannot have more than %d characters.</string>
+    <string name="uh_oh">Uh oh!</string>
+    <string name="must_be_less_than_eligible_age_description">You must be at least %d years old to use Flora as per European instructions. Sorry for any inconvenience but everyone should abide by the law for a happy life :)</string>
+    <string name="born_screen_title">When were you born?</string>
+    <string name="born_screen_description">Since cycles can change over time, this helps us customize the app for you.</string>
+    <string name="welcome_and_login_or_register_screen_title">Hello! You may optionally register or login with your account</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="primary_button_test_tag">primary_button_test_tag</string>
+    <string name="dropdown_with_border_test_tag">dropdown_with_border_test_tag</string>
+    <string name="dropdown_pregnancy_test_tag">dropdown_pregnancy_test_tag</string>
+    <string name="dropdown_miscarriages_test_tag">dropdown_miscarriages_test_tag</string>
+    <string name="dropdown_abortions_test_tag">dropdown_abortions_test_tag</string>
+    <string name="dropdown_race_test_tag">dropdown_race_test_tag</string>
+    <string name="icon_back_test_tag">icon_back_test_tag</string>
+    <string name="icon_next_test_tag">icon_next_test_tag</string>
+    <string name="bottom_sheet_test_tag">bottom_sheet_test_tag</string>
+    <string name="bottom_sheet_contraceptives_test_tag">bottom_sheet_contraceptives_test_tag</string>
+    <string name="clickable_text_field_test_tag">clickable_text_field_test_tag</string>
+    <string name="close_icon_test_tag">close_icon_test_tag</string>
+    <string name="lottie_elegant_woman_test_tag">lottie_elegant_woman_test_tag</string>
+    <string name="flora_dialog_test_tag">flora_dialog_test_tag</string>
+    <string name="prediction_dialog_test_tag">flora_dialog_test_tag</string>
+    <string name="registration_was_successful">Registration was successful!</string>
+    <string name="login_was_successful">Login was successful!</string>
+    <string name="profile">Profile</string>
+    <string name="welcome_christos">Welcome %s</string>
+    <string name="language">Language</string>
+</resources>

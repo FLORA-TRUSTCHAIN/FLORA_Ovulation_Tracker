@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onboarding_space_between_title_and_radio_groupds">32dp</dimen>
+</resources>
