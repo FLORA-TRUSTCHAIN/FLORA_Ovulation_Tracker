@@ -65,3 +65,27 @@ This project is funded by  the  H2020  project  entitled  “TRUSTCHAIN  - Foste
 For inquiries and collaborations, reach out to the project team:
 - ATHENA Research Center: [Pavlos Efraimidis](mailto:pefraimi@athenarc.gr)
 - OPSIS Research: [Athanasios Vrachinopoulos](mailto:info@opsys.ro)
+
+
+## Citation
+
+If you use FLORA Project materials in a scientific publication, we would appreciate using the following citation:
+
+* *Pavlidis, N., Sendros, A., Tsiolakis, T., Kostamis, P., Karasoulas, C., Briola, E., Nikolaidis, C. C., Perifanis, V., Drosatos, G., Katsiri, E., Filippidou, D. E., Manos, A., & Efraimidis, P. S. (2025). Federated Learning for Privacy-Friendly Health Apps: A Case Study on Ovulation Tracking. Journal of Sensor and Actuator Networks, 14(1), 11. https://doi.org/10.3390/jsan14010011*
+
+and as BibTeX:
+```
+@article{jsan14010011,
+    author         = {Pavlidis, Nikolaos and Sendros, Andreas and Tsiolakis, Theodoros and Kostamis, Periklis and Karasoulas, Christos and Briola, Eleni and Nikolaidis, Christos Chrysanthos and Perifanis, Vasilis and Drosatos, George and Katsiri, Eleftheria and Filippidou, Despoina Elisavet and Manos, Anastasios and Efraimidis, Pavlos S.},
+    title          = {Federated Learning for Privacy-Friendly Health Apps: A Case Study on Ovulation Tracking},
+    keywords       = {Federated Learning; Blockchain; Privacy; Machine Learning; Encryption},
+    journal        = {Journal of Sensor and Actuator Networks},
+    volume         = {14},
+    year           = {2025},
+    number         = {1},
+    article-number = {11},
+    url            = {https://www.mdpi.com/2224-2708/14/1/11},
+    issn           = {2224-2708},
+    doi            = {10.3390/jsan14010011}
+}
+```
